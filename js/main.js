@@ -1,5 +1,5 @@
 /**
- * Vanilla js keeping in mind types
+ * Vanilla js 
  */
 
 alert("Well done");
